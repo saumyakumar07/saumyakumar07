@@ -5,7 +5,7 @@
 
 - 📝 I have written some Research paper(1st) [https://ijirt.org/Article?manuscript=154508](https://ijirt.org/Article?manuscript=154508)
 
-- 💬 Ask me about **Always Learning**
+- 💬 Ask me about **cyber security and cloud coumputing**
 
 - 📫 How to reach me **saumyakumar8935@gmail.com**
 
