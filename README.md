@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumya Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Cyber Security & Clouds**
+- 🌱 I’m currently learning **Cyber Security & Cloud**
 
 - 📝 I have written some Research paper(1st) [https://ijirt.org/Article?manuscript=154508](https://ijirt.org/Article?manuscript=154508)
 
@@ -11,7 +11,7 @@
 
 - 📝 I have written some Research paper(2nd) [https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2304266](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2304266)
 
-- ⚡ Fun fact **I Think I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
