@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumya Kumar</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate computer science Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyakumar07&label=Profile%20views&color=0e75b6&style=flat" alt="saumyakumar07" /> </p>
 
