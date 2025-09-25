@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security & Cloud**
 
-- 👨‍💻 All of my projects are available at [saumyakumar.me](https://portfolio-saumya-kumars-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [saumyakumar.me](https://saumya-me.vercel.app/)
 
 - 📝 My first Research paper [https://ijirt.org/Article?manuscript=154508](https://ijirt.org/Article?manuscript=154508)
 
