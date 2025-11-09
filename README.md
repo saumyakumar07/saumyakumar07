@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security & Cloud**
+- 🌱 currently learning **Cyber Security & Cloud**
 
 - 👨‍💻 All of my projects are available at [saumyakumar.me](https://saumya-me.vercel.app/)
 
 - 📝 My first Research paper [https://ijirt.org/Article?manuscript=154508](https://ijirt.org/Article?manuscript=154508)
 
-- 💬 Ask me about **Always Learning**
 
 - 📫 How to reach me **saumyakumar8935@gmail.com**
 
 - 📝 My second Research paper [https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2304266](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2304266)
 
-- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
