@@ -1,34 +1,62 @@
-<h1 align="center">Hi 👋, I'm Saumya Kumar</h1>
-<h3 align="center">A passionate computer science Engineer from India</h3>
+<h1 align="center">Hi there, I'm Saumya Kumar 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyakumar07&label=Profile%20views&color=0e75b6&style=flat" alt="saumyakumar07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumyakumar07" alt="saumyakumar07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 currently learning **Cyber Security & Cloud**
-
-- 👨‍💻 All of my projects are available at [saumyakumar.me](https://saumya-me.vercel.app/)
-
-- 📝 My first Research paper [https://ijirt.org/Article?manuscript=154508](https://ijirt.org/Article?manuscript=154508)
-
-
-- 📫 How to reach me **saumyakumar8935@gmail.com**
-
-- 📝 My second Research paper [https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2304266](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2304266)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saumyakumar4321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saumyakumar4321/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/saumyakumar8935/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/saumyakumar8935/practice" height="30" width="40" /></a>
+<p align="center">
+  <em>Passionate Computer Science Engineer · Research Engineer @ IIT Kanpur · India</em>
 </p>
 
+<p align="center">
+  <a href="https://saumyakumar.me"><img src="https://img.shields.io/badge/Website-saumyakumar.me-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://portfolio-saumya-kumars-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=flat-square&logo=vercel" /></a>
+  <a href="https://linkedin.com/in/saumyakumar4321"><img src="https://img.shields.io/badge/LinkedIn-saumyakumar4321-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:saumyakumar8935@gmail.com"><img src="https://img.shields.io/badge/Email-saumyakumar8935@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumyakumar07&show_icons=true&locale=en&layout=compact" alt="saumyakumar07" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyakumar07&show_icons=true&locale=en" alt="saumyakumar07" /></p>
+- 🎓 Research Engineer at **IIT Kanpur**
+- 🔐 Currently diving deep into **Cybersecurity & Cloud Technologies**
+- 📄 Published research papers at **IJIRT** and **IJSDR**
+- 🛠️ I love building tools — from network-attached storage to AWS log pipelines
+- 🎯 Always focused on learning something new
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyakumar07&" alt="saumyakumar07" /></p>
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Security**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red?style=flat-square&logo=hackthebox&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saumyakumar07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyakumar07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saumyakumar07&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saumyakumar07&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center"><em>"Code. Research. Secure. Repeat."</em></p>
