@@ -66,20 +66,6 @@
 
 ---
 
-## 📌 Notable Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [PiNAS](https://github.com/saumyakumar07/PiNAS) | Raspberry Pi NAS with Plex media server | Raspberry Pi, OpenMediaVault, SSH |
-| [Log Analytics Solution (AWS)](https://github.com/saumyakumar07/Log-Analytics-Solution-AWS-) | End-to-end cloud log analytics pipeline | Kinesis, Flink, S3, OpenSearch, Kibana |
-| [CertGen](https://github.com/saumyakumar07/CertGen) | Bulk certificate generation & email delivery | Python, Flask, Pillow, Pandas |
-| [GAPMATE](https://github.com/saumyakumar07/GAPMATE) | ISO 27001 & NIST CSF compliance gap analysis tool | Python, Flask, HTML |
-| [Phishing Simulator](https://github.com/saumyakumar07/phishing-simulator) | Security awareness phishing simulation | — |
-| [CIS Project](https://github.com/saumyakumar07/cis-project) | CIS Controls audit & hardening web app | Python, Flask, HTML, CSS |
-| [File Deleter Scripting](https://github.com/saumyakumar07/File-deleter-scripting) | Python scripts for bulk file management | Python |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
