@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://saumya-me.vercel.app/"><img src="https://img.shields.io/badge/Website-saumyakumar.me-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://saumya-me.vercel.app/"><img src="https://img.shields.io/badge/Website-saumyakumar.me-blue?style=flat-square&logo=google-chrome" /></a>
   <a href="https://portfolio-saumya-kumars-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=flat-square&logo=vercel" /></a>
   <a href="https://linkedin.com/in/saumyakumar4321"><img src="https://img.shields.io/badge/LinkedIn-saumyakumar4321-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:saumyakumar8935@gmail.com"><img src="https://img.shields.io/badge/Email-saumyakumar8935@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
